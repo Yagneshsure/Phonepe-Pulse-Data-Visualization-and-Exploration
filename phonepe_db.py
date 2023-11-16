@@ -3,7 +3,7 @@ import mysql.connector
 import csv
 import re
 
-# Replace these values with your database credentials
+# database credentials
 host = "localhost"
 user = "root"
 password = "12345"
