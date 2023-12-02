@@ -7,7 +7,7 @@ import mysql.connector
 host = "localhost"
 user = "root"
 password = "12345"
-database = "PhonePe_database"
+database = "PhonePe_plus_database"
 
 # Establish a connection to MySQL server without specifying a database
 connection = mysql.connector.connect(
